@@ -9,3 +9,4 @@ Exercícios do curso de Web Scraping utilizando R.
 * Loop das páginas de resultados
 * Extração dos valores das tags html utilizando xPath
 * Escrita em CSV
+* **Atenção:** o script com o link do resultado feminino demora cerca de 10 minutos para concluir, e o do masculino 25 minutos.
